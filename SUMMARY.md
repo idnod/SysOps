@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [SysOps](README.md)
+* [Cloud](cloud/README.md)
+  * [Azure](cloud/azure.md)
 
